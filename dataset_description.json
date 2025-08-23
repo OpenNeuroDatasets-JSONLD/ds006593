@@ -11,9 +11,12 @@
     ],
     "License": "CC0",
     "Acknowledgements": "These studies were approved by the Northeastern IRB #10-05-2022. The studies were conducted in accordance with the local legislation and institutional requirements. The participants provided their written informed consent to participate in this study. We would like to thank Emma Sombers and Julia Gangemi for their assistance with data collection and preprocessing. We thank the Consortium of Accessible Multimodal Brain-Body Interfaces (CAMBI) for their insight and guidance over the course of the experiment. Additionally, we would like to thank all the participants for their time and effort in contributing to this research.",
-    "HowToAcknowledge": "TODO",
+    "HowToAcknowledge": "Please cite the following paper if you use this dataset: Celik et al. \"Multimodal Sensor Fusion for EEG-Based BCI Typing Systems\" Proc. 11th Int. Brain-Computer Interface Meeting. DOI:10.3217/978-3-99161-050-2-196",    
     "Funding": [
-        "This research was funded by an award from the National Institutes of Health (DC009834)."
+        "This research was funded by the National Institutes of Health (DC009834)."
+    ],
+    "EthicsApprovals": [
+        "Northeastern University IRB #10-05-2022"
     ],
     "DatasetDOI": "",
     "SourceDatasets": [],
